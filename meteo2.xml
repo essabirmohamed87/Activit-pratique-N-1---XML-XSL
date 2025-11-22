@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<meteo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="meteo.xsd">
+    <mesure date="2025-11-16">
+        <ville nom="casablanca" temperature="19"/>
+        <ville nom="rabat" temperature="18"/>
+        <ville nom="marrakech" temperature="23"/>
+        <ville nom="eljadida" temperature="19"/>
+        <ville nom="tanger" temperature="16"/>
+        <ville nom="fes" temperature="20"/>
+        <ville nom="agadir" temperature="24"/>
+    </mesure>
+    <mesure date="2025-11-17">
+        <ville nom="casablanca" temperature="17"/>
+        <ville nom="rabat" temperature="18"/>
+        <ville nom="marrakech" temperature="21"/>
+        <ville nom="eljadida" temperature="18"/>
+        <ville nom="tanger" temperature="17"/>
+        <ville nom="fes" temperature="20"/>
+        <ville nom="agadir" temperature="25"/>
+    </mesure>
+</meteo>
